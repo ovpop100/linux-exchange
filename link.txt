@@ -1,4 +1,4 @@
 wget https://download2.rstudio.org/server/centos6/x86_64/rstudio-server-rhel-1.2.5033-x86_64.rpm
 
 sudo yum install rstudio-server-rhel-1.2.5033-x86_64.rpm
-
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR917/001/SRR9178391/SRR9178391_2.fastq.gz
